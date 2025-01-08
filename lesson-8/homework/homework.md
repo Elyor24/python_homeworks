@@ -5,7 +5,9 @@
 ## Exercises
 
 1. Write a Python program to handle a ZeroDivisionError exception when dividing a number by zero.
+
 2. Write a Python program that prompts the user to input an integer and raises a ValueError exception if the input is not a valid integer.
+
 3. Write a Python program that opens a file and handles a FileNotFoundError exception if the file does not exist.
 4. Write a Python program that prompts the user to input two numbers and raises a TypeError exception if the inputs are not numerical.
 5. Write a Python program that opens a file and handles a PermissionError exception if there is a permission issue.
